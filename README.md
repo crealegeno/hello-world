@@ -1,2 +1,7 @@
 # hello-world
-Hello World Description
+
+I am a person. I like
+ * tacos
+ * pasta
+ * falafel  
+Things!
